@@ -1,1 +1,1 @@
-https://xaosland.github.io/rsschool-cv/
+https://xaosland.github.io/rsschool-cv/cv
